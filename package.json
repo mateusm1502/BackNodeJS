@@ -1,0 +1,26 @@
+{
+  "name": "backnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mateusm1502/BackNodeJS#readme",
+  "bugs": {
+    "url": "https://github.com/mateusm1502/BackNodeJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusm1502/BackNodeJS.git"
+  },
+  "license": "ISC",
+  "author": "mateus",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.24.4",
+    "sequelize": "^6.37.8"
+  }
+}
