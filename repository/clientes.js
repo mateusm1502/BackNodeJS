@@ -1,5 +1,4 @@
 import clientes from '../model/clientes.js';
-import clientes from '../model/clientes.js';
 
 // INSERT INTO carros (marca, ano) VALUES ("FIAT", 1998)
 class RepositoryClientes {

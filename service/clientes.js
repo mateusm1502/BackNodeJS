@@ -1,5 +1,5 @@
 import RepositoryClientes from '../repository/clientes.js'
-
+// teu erro é besta, vc sabe o problema
 class ServiceClientes {
 
     // Core- Regra de Negocio
